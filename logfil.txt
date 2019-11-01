@@ -1,0 +1,10 @@
+commit 3d6ce3c8f3f0fd37d4e33ad341624e8c8335e887 (HEAD -> master, origin/newbranch, origin/master, newbranch)
+Author: Patrick <patrick@pinyagroup.com>
+Date:   Fri Nov 1 11:37:06 2019 +0100
+
+    new branch and new file
+
+    commit 1dec68cc0a162036bb2b1c837ccd6b8c6f676042
+    Author: Patrick <patrick@pinyagroup.com>
+    Date:   Fri Nov 1 11:32:00 2019 +0100
+
